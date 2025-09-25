@@ -1,0 +1,46 @@
+{
+  "term": "Spring",
+  "year": "2022",
+  "level": [
+    "Non-Credit"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Artificial Intelligence"
+    ],
+    [
+      "Teaching and Education",
+      "Curriculum and Teaching"
+    ]
+  ],
+  "legacy_uid": "cb6b73fe-c075-25d3-e1c2-b145d956a19a",
+  "instructors": {
+    "content": [
+      "12212598-b448-e70b-1c32-5555dcf0248c"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "a24be096-2855-6b3e-4623-9599638a3c61",
+    "website": "res-mas-001-raise-responsible-ai-for-social-empowerment-and-education-spring-2022"
+  },
+  "course_title": "RAISE (Responsible AI for Social Empowerment and Education)",
+  "hide_download": true,
+  "course_description": "RAISE\u00a0(Responsible AI for Social Empowerment and Education) is a new MIT-wide initiative headquartered in the\u00a0[MIT Media Lab](https://www.media.mit.edu/)\u00a0and in collaboration with the\u00a0[MIT Schwarzman College of Computing](https://computing.mit.edu/)\u00a0and\u00a0[MIT Open Learning](https://openlearning.mit.edu/). MIT researchers continually develop\u00a0[curriculum modules and associated teaching materials](https://raise.mit.edu/resources.html)\u00a0that are available to all K-12 educators for free under a Creative Commons license.\n",
+  "department_numbers": [
+    "MAS"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "RES.MAS-001",
+  "course_image_thumbnail": {
+    "content": "fd3977a8-84a2-aadb-d3e7-cec5566e2f90",
+    "website": "res-mas-001-raise-responsible-ai-for-social-empowerment-and-education-spring-2022"
+  },
+  "learning_resource_types": [],
+  "site_uid": "596bbfb0-242c-46de-9e9d-d9b428552028",
+  "site_short_id": "res.mas-001-spring-2022",
+  "site_url_path": "courses/res-mas-001-raise-responsible-ai-for-social-empowerment-and-education-spring-2022",
+  "title": "Course Metadata"
+}
