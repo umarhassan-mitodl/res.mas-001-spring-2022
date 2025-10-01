@@ -4,6 +4,8 @@ description: ''
 file: /courses/res-mas-001-raise-responsible-ai-for-social-empowerment-and-education-spring-2022/a24be09628556b3e46239599638a3c61_res-mas-001s22.jpg
 file_size: 65532
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: "The logo for the MIT initiative Responsible AI for Social Empowerment\
     \ and Education (RAISE).\_(Image courtesy of MIT RAISE.)"
